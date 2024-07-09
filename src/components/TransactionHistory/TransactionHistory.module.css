@@ -1,0 +1,22 @@
+.transactionsTable {
+  border: 2px solid black;
+  padding: 0;
+  text-align: center;
+}
+.transactionsTable,
+.transactionsRowContainer,
+.transactionsItem {
+  border: 1px solid black;
+}
+
+.transactionsRowContainer,
+.transactionsItem {
+  padding: 5px 30px;
+  text-align: left;
+  text-transform: capitalize;
+}
+.transactionsTitleContainer {
+  color: #fff;
+  background-color: black;
+  padding: 0;
+}
